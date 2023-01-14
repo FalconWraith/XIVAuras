@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SHXzZrvtNyyV1jThTP81z4qBmGy91BrqYC2QYHmmzwfVZoUbPlVUZkeXM3kOvEXw51HePY8R/mJO9tZ6r8WFjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SGunn\\Documents\\Plugin development\\XIVAuras\\XIVAuras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SGunn\\.nuget\\packages\\dalamudpackager\\2.1.10\\dalamudpackager.2.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
